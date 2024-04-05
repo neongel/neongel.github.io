@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>测试页面</title>
-      <link href="blog/done/"/>
-      <url>blog/done/</url>
+      <title>生存建造类游戏研发中...</title>
+      <link href="blog/%E7%94%9F%E5%AD%98%E5%BB%BA%E9%80%A0%E7%B1%BB%E6%B8%B8%E6%88%8F%E7%A0%94%E5%8F%91%E4%B8%AD/"/>
+      <url>blog/%E7%94%9F%E5%AD%98%E5%BB%BA%E9%80%A0%E7%B1%BB%E6%B8%B8%E6%88%8F%E7%A0%94%E5%8F%91%E4%B8%AD/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="关于"><a href="#关于" class="headerlink" title="关于"></a>关于</h1><p>如果你看到此页面，说明你已成功运行并部署此网站。</p><p><img src="1.jpg" alt=""></p><p>你可以查看，以下文档进行自定义设置。</p><blockquote><p>网站修改配置文档：</p></blockquote><a class="btn-beautify button--animated " href="https://guguge.gitee.io/blog/butterfly"   title="链接1"><i class="fas fa-download"></i><span>链接1</span></a><a class="btn-beautify button--animated " href="https://guguge.top/blog/butterfly"   title="链接2"><i class="fas fa-download"></i><span>链接2</span></a><hr><blockquote><p>文章书写格式参考文档：</p></blockquote><a class="btn-beautify button--animated " href="https://guguge.gitee.io/blog/markdown"   title="链接1"><i class="fas fa-download"></i><span>链接1</span></a><a class="btn-beautify button--animated " href="https://guguge.top/blog/markdown"   title="链接2"><i class="fas fa-download"></i><span>链接2</span></a>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="霓虹凝胶的生存建造类游戏研发中…"><a href="#霓虹凝胶的生存建造类游戏研发中…" class="headerlink" title="霓虹凝胶的生存建造类游戏研发中…"></a>霓虹凝胶的生存建造类游戏研发中…</h1><hr><p><img src="1.png" alt=""></p><blockquote><p>图标: 未定</p><p>名称: 未定</p></blockquote><hr><blockquote><p>开始界面:<br><img src="2.png" alt=""></p></blockquote><hr><blockquote><p>程序部分: 部鑫、小皮鸭<br>美术部分：未定<br>建模部分：𢀗、南笙<br>音效部分：从别的游戏上扒下来或者去爱给网白嫖~</p></blockquote>]]></content>
       
       
       
